@@ -176,3 +176,8 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
+.Image {
+  max-width: 30rem;
+  margin: 2rem auto;
+}
