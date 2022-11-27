@@ -101,6 +101,10 @@ h3 {
   gap: 1rem;
 }
 
+.testim-down {
+  margin-top: 7rem;
+}
+
 .testim-card p {
   text-align: center;
 }
